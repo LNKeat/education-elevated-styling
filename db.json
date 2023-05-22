@@ -1,0 +1,62 @@
+{
+    "teachers": [
+    {
+    "id": 1,
+    "first_name": "Fiona",
+    "last_name": "Harris",
+    "bio": "Fiona has a Bachelor of Arts. Some describe them as youthful. They have been known to say: Know how to listen, and you will profit even from those who talk badly.",
+    "programs": [
+        {
+        "id": 1,
+        "name": "DND for Social Development",
+        "description": "This popular role playing game is a great way for teenagers that struggle with social cues, etiquette and interactions in general.",
+        "funds_needed": 400,
+        "funds_raised": 30
+        },
+        {
+        "id": 2,
+        "name": "Horse IQ",
+        "description": "Students will learn to take care of a horse and riding equipment while building lifelong connections with other teens and furry friends alike.",
+        "funds_needed": 900,
+        "funds_raised": 230
+    },
+    {
+        "id": 3,
+        "name": "Club Soccer",
+        "description": "Great for anyone that loves soccer from beginner to experienced. No try-outs, just come join and play. ",
+        "funds_needed": 600,
+        "funds_raised": 250
+        }
+    ]
+    },
+    {
+    "id": 2,
+    "first_name": "Erma",
+    "last_name": "Mills",
+    "bio": "Erma has a Associate Degree in Criminology. Some describe them as grouchy. They have been known to say: Good habits formed at youth make all the difference.",
+    "programs": [ ]
+    },
+    {
+    "id": 3,
+    "first_name": "Kay",
+    "last_name": "Rowe",
+    "bio": "Kay has a Bachelor of biomedical Science. Some describe them as unsure. They have been known to say: Dignity does not consist in possessing honors, but in deserving them.",
+    "programs": [
+        {
+        "id": 4,
+        "name": "Debate Debacle",
+        "description": "Students will work on public speaking and reasoning under stress in a challenging but friendly environment.",
+        "funds_needed": 200,
+        "funds_raised": 70
+        }
+    ]
+    },
+    {
+    "id": 4,
+    "first_name": "Art",
+    "last_name": "Gerlach",
+    "bio": "Art has a Bachelor of Forensic Science. Some describe them as irked. They have been known to say: Control thy passions lest they take vengence on thee.",
+    "programs": [ ]
+    }
+    ]
+}
